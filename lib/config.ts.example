@@ -1,0 +1,7 @@
+export const DEEPL_API_KEY = '';
+
+export const OPENAPI_API_KEY = '';
+export const OPENAPI_RESOURCE_NAME = '';
+export const OPENAPI_VAULT_SECRET_NAME = '';
+
+export const VAULT_URL = '';
